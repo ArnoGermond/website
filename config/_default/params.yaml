@@ -42,3 +42,18 @@ hugoblox:
       enable: true
   search:
     enable: true
+  identity:
+    name: Dr. Arno Germond
+    organization: INRAE
+    tagline: Cell Biology Researcher
+    description: "Dr Arno Germond is a cell biologist aiming to decode information in complex biology systems "
+  seo:
+    title: Arno GERMOND AI scientist
+    location:
+      address:
+        region: Auvergne
+        postal_code: "63000"
+        country: FRANCE
+        city: Clermont Ferrand
+  repository:
+    url: https://github.com/ArnoGermond

@@ -1,0 +1,17 @@
+main:
+  - name: Home
+    identifier: home
+    url: https://arnogermond.github.io/home
+    weight: 10
+  - name: Projects
+    identifier: projects
+    url: https://arnogermond.github.io/projects
+    weight: 20
+  - name: Scientific Articles
+    identifier: scientific-articles
+    url: https://arnogermond.github.io/articles
+    weight: 30
+  - name: News
+    identifier: news
+    url: https://arnogermond.github.io/news
+    weight: 40

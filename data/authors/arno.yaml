@@ -1,0 +1,28 @@
+slug: "arno"
+name:
+  display: "Dr Arno GERMOND"
+  given: "Arno"
+  family: "GERMOND"
+role: "Dr."
+bio: ""
+status:
+  icon: "👋"
+is_owner: true
+links:
+  - icon: "brands/linkedin"
+    url: "https://fr.linkedin.com/in/arno-germond"
+    label: "LinkedIn"
+  - icon: "academicons/researchgate"
+    url: "https://www.researchgate.net/profile/Arno-Germond"
+    label: "ResearchGate"
+ids:
+  research_gate: "ArnoGERMOND"
+  orcid: "0000-0002-2196-7566"
+  scopus: "55874054200"
+  google_scholar: "odkxuuUAAAAJ"
+schema: "hugoblox/author/v1"
+interests:
+  - "Raman-Gene"
+  - "Raman spectroscopy"
+  - "AI"
+  - "Cell Biology"
